@@ -1,0 +1,4 @@
+$ git clone -b dev https://github.com/HCMUS-study-case/hotel-management-project
+
+
+$ git clone -b nguyen https://github.com/HCMUS-study-case/hotel-management-project
